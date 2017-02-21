@@ -1,0 +1,7 @@
+p{
+  color: blue;
+  transition: color 2s;
+  &:hover{
+    color: red;
+  }
+}
