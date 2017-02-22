@@ -1,6 +1,0 @@
-p {
-  color: blue;
-  -webkit-transition: color 2s;
-  transition: color 2s; }
-  p:hover {
-    color: red; }
